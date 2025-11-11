@@ -1,0 +1,13 @@
+Github
+"
+git config --global user.name "Aliuddin27"
+
+git config --global user.email "Aliuddin27@gmail.com"
+
+git config --global color.ui auto
+
+Mandatory commands 
+>> git init
+>> git remote add origin https://github.com/Aliuddin27/Gitdemo.git
+
+git pull origin main
